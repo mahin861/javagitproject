@@ -2,6 +2,6 @@
 public class basicprog { 
     public static void main(String args[]) 
     { 
-        System.out.println("GeeksforGeeks"); 
+        System.out.println("my changes"); 
     } 
 }
